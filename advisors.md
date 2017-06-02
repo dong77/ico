@@ -30,4 +30,4 @@ Email: xguo "at" utdallas.edu
 Director, Global Product Marketing
 
 ### 钱江
-前Airbnb研发总监，开源项目 aerosolve 和 airlearner的负责人
+前Airbnb研发总监，Airbnb开源项目机器学习开源框架 aerosolve 和 airlearner的负责人
