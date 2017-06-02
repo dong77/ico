@@ -31,3 +31,7 @@ Director, Global Product Marketing
 
 ### 钱江
 前Airbnb研发总监，Airbnb开源项目机器学习开源框架 aerosolve 和 airlearner的负责人
+
+### 远辉
+
+上海云克网络科技有限公司 CEO
