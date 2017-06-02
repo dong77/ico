@@ -21,3 +21,13 @@ Email: xguo "at" utdallas.edu
 
 ### 龙凯
 银联智慧 CEO
+
+### 向江旭
+苏宁云商IT总部执行副总裁向江旭 
+
+### 曹志斌
+
+Director, Global Product Marketing
+
+### 钱江
+Airbnb
